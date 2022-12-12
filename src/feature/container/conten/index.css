@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+}
+.content-container {
+    height: 75%;
+}
+.content {
+  max-width: 1510px;
+  margin: auto;
+}
+
+.content-above {
+  background-color: #efefef;
+  padding: 38px 0;
+}
+
+.content-below {
+  display: flex;
+  padding-top: 40px;
+}
+
+.nav-content-below{
+    display: flex;
+}
+
+.title-content-below {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: start;
+    padding-bottom: 18px;
+}
